@@ -19,6 +19,8 @@ Route::get('about', 'aboutController@index');
 Route::get('about/resources', 'aboutController@resources');
 Route::get('about/payments', 'aboutController@payments');
 Route::get('about/career', 'aboutController@career');
+Route::get('faq', 'faqController@index');
+Route::get('download', 'downloadController@index');
 
 Route::get('ourwork', 'ourworkController@index');
 Route::get('ourwork/websites', 'ourworkController@websites');

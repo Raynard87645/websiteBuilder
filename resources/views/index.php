@@ -64,7 +64,7 @@
 						<ul>
 						    <li><a href="/seo">SEO</a></li>
 							<li><a href="/marketing/social">Social Media</a></li>
-							<li><a href="/marketing/logo">logo</a></li>
+							<li><a href="/marketing/logo">logo Development</a></li>
 							<li><a href="/marketing/card">Business Card</a></li>
 
 						</ul>
@@ -111,70 +111,48 @@
 	           	  <p>In the world of web design there has been a significant turning point in recent years, and it has to do with the preferred devices of digital media users. Americans spend an average of 87 hours per month browsing on their mobile devices. In addition, 68% of digital media usage is on mobile devices, leaving only 32% for desktops and laptops. Considering that smartphones have surpassed PCs in sales over six years ago, it is likely that these numbers will only continue to trend in favor of mobile.</p>
 	           </div>
            </div>
-			<div class="row 200%">
+			<div class="row 200%" >
 				<div class="12u">
 
 				<!-- Features -->
 				<section class="box features">
 					<h2 class="major"><span>Our Services</span></h2>
 					<div>
-						<div class="row">
+						<div id="front-view" class="row">
 							<div class="col-sm-3">
-
-								<!-- Feature -->
-								<section class="box feature">
-								   <div class="panel panel-primy">
-									<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
-									<button type="button" class="">Long-Term SEO</button>
-									</div>
-								</section>
-
+                                <div class="myimage">
+                                   <h3 ><b>SEO - SEARCH ENGINE OPTIMIZATION</b></h3>
+                                   <h5 ><b>This is a test</b></h5>
+								   <button type="button" class="btn">View Services</button>
+								</div>
 							</div>
 							<div class="col-sm-3">
-
-								<!-- Feature -->
-									<section class="box feature">
-										<a href="#" class="image featured"><img src="images/next.jpg" alt="" /></a>
-										<h3><a href="#">Another Subheading</a></h3>
-										<p>
-											Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
-											lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
-										</p>
-									</section>
-
+                                <div class="myimage1">
+                                   <h3><b>creative WEBSITE Designs<br> & DEVELOPMENT</b></h3>
+                                   <h5><b>This is a test</b></h5>
+								   <button type="button" class="btn">View Services</button>
+								</div>
 							</div>
 							<div class="col-sm-3">
-
-								<!-- Feature -->
-									<section class="box feature">
-										<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
-										<h3><a href="#">And Another</a></h3>
-										<p>
-											Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
-											lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
-										</p>
-									</section>
-
+                                <div class="myimage2"> 
+                                   <h3><b>Digital SOCIAL MEDIA MARKETING services</b></h3>
+                                   <h5><b>This is a test</b></h5>
+								   <button type="button" class="btn">View Services</button>
+								</div>
 							</div>
 							<div class="col-sm-3">
-
-								<!-- Feature -->
-									<section class="box feature">
-										<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
-										<h3><a href="#">And One More</a></h3>
-										<p>
-											Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in
-											lectus dolore. Praesent semper mod quis eget sed etiam eu ante risus.
-										</p>
-									</section>
-
+                                <div class="myimage3">
+                                   <h3><b>Business card<br> & LOGO DEVELOPMENT</b></h3>
+                                   <h5><b>This is a test</b></h5>
+								   <button type="button" class="btn">View Services</button>
+								</div>
 							</div>
 						</div>
 						<div class="row">
 							<div class="12u">
 								<ul class="actions">
-									<li><a href="#" class="button big">Do Something</a></li>
-									<li><a href="#" class="button alt big">Think About It</a></li>
+									<li><a href="/about/resources" class="button big"><i class="fa fa-files-o"></i> View Resources</a></li>
+									<li><a href="/about/payments" class="button alt big"><i class="fa fa-money"></i> View Payments</a></li>
 								</ul>
 							</div>
 						</div>
@@ -186,95 +164,71 @@
 			<div class="12u">
 
 				<!-- Blog -->
-					<section class="box blog">
-						<h2 class="major"><span>Another Major Heading</span></h2>
-						<div>
-							<div class="row">
-								<div class="9u 12u(mobile)">
-									<div class="content content-left">
-
-										<!-- Featured Post -->
-											<article class="box post">
-												<header>
-													<h3><a href="#">Here's a really big heading</a></h3>
-													<p>With a smaller subtitle that attempts to elaborate</p>
-													<ul class="meta">
-														<li class="icon fa-clock-o">15 minutes ago</li>
-														<li class="icon fa-comments"><a href="#">8</a></li>
-													</ul>
-												</header>
-												<a href="#" class="image featured"><img src="images/next.jpg" alt="" /></a>
-												<p>
-													Phasellus quam turpis, feugiat sit amet ornare in, a hendrerit in lectus. Praesent
-													semper mod quis eget mi. Etiam sed ante risus aliquam erat et volutpat. Praesent a
-													dapibus velit. Curabitur sed nisi nunc, accumsan vestibulum lectus. Lorem ipsum
-													dolor sit non aliquet sed, tempor et dolor.  Praesent a dapibus velit. Curabitur
-													accumsan.
-												</p>
-												<a href="#" class="button">Continue Reading</a>
-											</article>
-
-									</div>
-								</div>
-								<div class="3u 12u(mobile)">
-									<div class="sidebar">
-
-										<!-- Archives -->
-											<ul class="divided">
-												<li>
-													<article class="box post-summary">
-														<h3><a href="#">A Subheading</a></h3>
-														<ul class="meta">
-															<li class="icon fa-clock-o">6 hours ago</li>
-															<li class="icon fa-comments"><a href="#">34</a></li>
-														</ul>
-													</article>
-												</li>
-												<li>
-													<article class="box post-summary">
-														<h3><a href="#">Another Subheading</a></h3>
-														<ul class="meta">
-															<li class="icon fa-clock-o">9 hours ago</li>
-															<li class="icon fa-comments"><a href="#">27</a></li>
-														</ul>
-													</article>
-												</li>
-												<li>
-													<article class="box post-summary">
-														<h3><a href="#">And Another</a></h3>
-														<ul class="meta">
-															<li class="icon fa-clock-o">Yesterday</li>
-															<li class="icon fa-comments"><a href="#">184</a></li>
-														</ul>
-													</article>
-												</li>
-												<li>
-													<article class="box post-summary">
-														<h3><a href="#">And Another</a></h3>
-														<ul class="meta">
-															<li class="icon fa-clock-o">2 days ago</li>
-															<li class="icon fa-comments"><a href="#">286</a></li>
-														</ul>
-													</article>
-												</li>
-												<li>
-													<article class="box post-summary">
-														<h3><a href="#">And One More</a></h3>
-														<ul class="meta">
-															<li class="icon fa-clock-o">3 days ago</li>
-															<li class="icon fa-comments"><a href="#">8,086</a></li>
-														</ul>
-													</article>
-												</li>
-											</ul>
-											<a href="#" class="button alt">Browse Archives</a>
-
-									</div>
-								</div>
-							</div>
+				<section class="box blog">
+					<h2 class="major"><span>Why Choose Inventive Designs</span></h2>
+					  <div class="row">
+						<div id="our-Values">
+						   <div class="col-sm-4">
+						   	  <div class="col-sm-5">
+						   	  	 <i class="fa fa-users"></i>
+						   	  </div>
+						   	  <div class="col-sm-7">
+						   	     <h3><b>experienced team</b></h3>
+						   	  	 <p>this is a killer paragraph to catch user</p>
+						   	  </div>
+						   </div>
+						   <div class="col-sm-4">
+						   	  <div class="col-sm-5">
+						   	  	 <i class="fa fa-signal"></i>
+						   	  </div>
+						   	  <div class="col-sm-7">
+						   	  	 <h3><b>values to business</b></h3>
+						   	  	 <p>this is a killer paragraph to catch user</p>
+						   	  </div>
+						   </div>
+						   <div class="col-sm-4">
+						   	  <div class="col-sm-5">
+						   	  	 <i class="fa fa-shield"></i>
+						   	  </div>
+						   	  <div class="col-sm-7">
+						   	  	 <h3><b>protect user details</b></h3>
+						   	  	 <p>this is a killer paragraph to catch user</p>
+						   	  </div>
+						   </div>
 						</div>
-					</section>
-
+					  </div>
+					  <div class="row">
+						<div id="our-Values">
+						   <div class="col-sm-4">
+						   	  <div class="col-sm-5">
+						   	  	 <i class="fa fa-star"></i>
+						   	  </div>
+						   	  <div class="col-sm-7">
+						   	  	 <h3><b>Have leader qualities</b></h3>
+						   	  	 <p>this is a killer paragraph to catch user</p>
+						   	  </div>
+						   </div>
+						   <div class="col-sm-4">
+						   	  <div class="col-sm-5">
+						   	  	 <i class="fa fa-street-view"></i>
+						   	  </div>
+						   	  <div class="col-sm-7">
+						   	  	  <h3><b>Known in the streets</b></h3>
+						   	  	  <p>this is a killer paragraph to catch user</p>
+						   	  </div>
+						   </div>
+						   <div class="col-sm-4">
+						   	  <div class="col-sm-5">
+						   	  	 <i class="fa fa-user"></i>
+						   	  </div>
+						   	  <div class="col-sm-7">
+						   	  	  <h3><b>Client details</b></h3>
+						   	  	  <p>this is a killer paragraph to catch user</p>
+						   	  </div>
+						   </div>
+						</div>
+					  </div>
+				</section>
 			</div>
 		</div>
 	</div>
@@ -292,7 +246,7 @@
 	                    <ul>
 	                        <li><a href="/">Home</a></li>
 	                        <li><a href="/about/resources">Resources</a></li>
-	                        <li><a href="/downloads">Downloads</a></li>
+	                        <li><a href="/download">Downloads</a></li>
 	                    </ul>
 	                </div>
 	                <div class="col-sm-2">

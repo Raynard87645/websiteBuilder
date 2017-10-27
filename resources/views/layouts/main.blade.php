@@ -56,7 +56,7 @@
 							<ul>
 								<li><a href="/seo">SEO</a></li>
 								<li><a href="/marketing/social">Social Media</a></li>
-								<li><a href="/marketing/logo">logo</a></li>
+								<li><a href="/marketing/logo">logo Development</a></li>
 								<li><a href="/marketing/card">Business Card</a></li>
 							</ul>
 						</li>
@@ -82,7 +82,7 @@
 		                    <ul>
 		                        <li><a href="/">Home</a></li>
 		                        <li><a href="/about/resources">Resources</a></li>
-		                        <li><a href="/downloads">Downloads</a></li>
+		                        <li><a href="/download">Downloads</a></li>
 		                    </ul>
 		                </div>
 		                <div class="col-sm-2">

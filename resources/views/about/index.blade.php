@@ -4,14 +4,13 @@
 @section('content')
    
     <!-- Header -->
-        <header id="header">
-			<div class="logo container">
-				<div>
-					<h1><a href="" id="logo">TXT</a></h1>
-					<p>About Us</p>
-				</div>
-			</div>
-		</header>
+        <div id="header-wrapper">
+          <section id="banner">
+            <h2>About Us</h2>
+            <p>We are ready and willing to serve you</p>
+            <a href="#" class="button">Get Started</a>
+	      </section>
+	    </div>
 		<div id="main-wrapper">
         <div class="container">
            <h1>Who is Inventive Designs</h1>

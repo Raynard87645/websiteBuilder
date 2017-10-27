@@ -4,14 +4,13 @@
 @section('content')
    
     <!-- Header -->
-        <header id="header">
-			<div class="logo container">
-				<div>
-					<h1><a href="" id="logo"></a></h1>
-					<p>Logo Development</p>
-				</div>
-			</div>
-		</header>
+    <div id="header-wrapper">
+          <section id="banner">
+            <h2>Logo Development</h2>
+            <p>Let brand you business for you</p>
+            <a href="#" class="button">Get Started</a>
+        </section>
+      </div>
 		<div id="main-wrapper">
 	       <div class="container">
 	         <div class="row">
